@@ -1,0 +1,37 @@
+{
+  "name": "xrayquire-for-npm",
+  "version": "0.0.0",
+  "description": "Re-packaging of xrayrequire for publishing on npm.",
+  "main": "xrayquire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/requirejs/xrayquire.git"
+  },
+  "keywords": [
+    "xrayquire",
+    "requirejs",
+    "introspection",
+    "troubleshooting",
+    "debugging",
+    "case-sensitive",
+    "case-insensitive"
+  ],
+  "author": "Wil Moore III <wil.moore@wilmoore.com> (http://github.com/wilmoore)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/requirejs/xrayquire/master/LICENSE"
+    },
+    {
+      "type": "BSD",
+      "url": "https://raw.github.com/requirejs/xrayquire/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/requirejs/xrayquire/issues"
+  },
+  "homepage": "https://github.com/requirejs/xrayquire"
+}
